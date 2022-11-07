@@ -1,0 +1,24 @@
+body{
+    background-color: currentColor;
+    text-align: center;
+    position: relative;
+
+}
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+.joy1{
+    position: absolute;
+    left: 400px;
+
+    
+}
+.joy2{
+    position: absolute;
+    right: 400px;
+}
+h1,h3{
+    color: blueviolet;
+}
